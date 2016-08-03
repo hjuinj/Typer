@@ -1,0 +1,614 @@
+running py2exe
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension 'win32evtlog' (C:\Users\t\Anaconda2\lib\site-packages\win32\win32evtlog.pyd -> win32evtlog.pyd)
+creating python loader for extension '_tkinter' (C:\Users\t\Anaconda2\DLLs\_tkinter.pyd -> _tkinter.pyd)
+creating python loader for extension '_ctypes' (C:\Users\t\Anaconda2\DLLs\_ctypes.pyd -> _ctypes.pyd)
+creating python loader for extension 'unicodedata' (C:\Users\t\Anaconda2\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'win32api' (C:\Users\t\Anaconda2\lib\site-packages\win32\win32api.pyd -> win32api.pyd)
+creating python loader for extension 'select' (C:\Users\t\Anaconda2\DLLs\select.pyd -> select.pyd)
+creating python loader for extension '_socket' (C:\Users\t\Anaconda2\DLLs\_socket.pyd -> _socket.pyd)
+creating python loader for extension '_hashlib' (C:\Users\t\Anaconda2\DLLs\_hashlib.pyd -> _hashlib.pyd)
+creating python loader for extension '_ssl' (C:\Users\t\Anaconda2\DLLs\_ssl.pyd -> _ssl.pyd)
+creating python loader for extension 'bz2' (C:\Users\t\Anaconda2\DLLs\bz2.pyd -> bz2.pyd)
+*** finding dlls needed ***
+*** create binaries ***
+*** byte compile python files ***
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\StringIO.py to StringIO.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\UserDict.py to UserDict.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\__future__.py to __future__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\_abcoll.py to _abcoll.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\_strptime.py to _strptime.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\_threading_local.py to _threading_local.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\_weakrefset.py to _weakrefset.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\abc.py to abc.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\atexit.py to atexit.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\base64.py to base64.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\bdb.py to bdb.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\calendar.py to calendar.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\cmd.py to cmd.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\codecs.py to codecs.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\collections.py to collections.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\contextlib.py to contextlib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\copy.py to copy.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\copy_reg.py to copy_reg.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ctypes\__init__.py to ctypes\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ctypes\_endian.py to ctypes\_endian.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ctypes\wintypes.py to ctypes\wintypes.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\difflib.py to difflib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\dis.py to dis.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\doctest.py to doctest.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\dummy_thread.py to dummy_thread.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\__init__.py to email\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\_parseaddr.py to email\_parseaddr.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\base64mime.py to email\base64mime.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\charset.py to email\charset.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\encoders.py to email\encoders.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\errors.py to email\errors.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\feedparser.py to email\feedparser.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\generator.py to email\generator.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\header.py to email\header.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\iterators.py to email\iterators.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\message.py to email\message.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\mime\__init__.py to email\mime\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\parser.py to email\parser.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\quoprimime.py to email\quoprimime.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\email\utils.py to email\utils.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\__init__.py to encodings\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\aliases.py to encodings\aliases.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\ascii.py to encodings\ascii.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\base64_codec.py to encodings\base64_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\big5.py to encodings\big5.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\big5hkscs.py to encodings\big5hkscs.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\bz2_codec.py to encodings\bz2_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\charmap.py to encodings\charmap.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp037.py to encodings\cp037.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1006.py to encodings\cp1006.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1026.py to encodings\cp1026.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1140.py to encodings\cp1140.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1250.py to encodings\cp1250.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1251.py to encodings\cp1251.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1252.py to encodings\cp1252.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1253.py to encodings\cp1253.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1254.py to encodings\cp1254.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1255.py to encodings\cp1255.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1256.py to encodings\cp1256.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1257.py to encodings\cp1257.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp1258.py to encodings\cp1258.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp424.py to encodings\cp424.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp437.py to encodings\cp437.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp500.py to encodings\cp500.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp720.py to encodings\cp720.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp737.py to encodings\cp737.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp775.py to encodings\cp775.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp850.py to encodings\cp850.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp852.py to encodings\cp852.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp855.py to encodings\cp855.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp856.py to encodings\cp856.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp857.py to encodings\cp857.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp858.py to encodings\cp858.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp860.py to encodings\cp860.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp861.py to encodings\cp861.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp862.py to encodings\cp862.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp863.py to encodings\cp863.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp864.py to encodings\cp864.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp865.py to encodings\cp865.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp866.py to encodings\cp866.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp869.py to encodings\cp869.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp874.py to encodings\cp874.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp875.py to encodings\cp875.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp932.py to encodings\cp932.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp949.py to encodings\cp949.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\cp950.py to encodings\cp950.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\euc_jis_2004.py to encodings\euc_jis_2004.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\euc_jisx0213.py to encodings\euc_jisx0213.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\euc_jp.py to encodings\euc_jp.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\euc_kr.py to encodings\euc_kr.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\gb18030.py to encodings\gb18030.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\gb2312.py to encodings\gb2312.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\gbk.py to encodings\gbk.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\hex_codec.py to encodings\hex_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\hp_roman8.py to encodings\hp_roman8.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\hz.py to encodings\hz.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\idna.py to encodings\idna.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp.py to encodings\iso2022_jp.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp_1.py to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp_2.py to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp_2004.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp_3.py to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_jp_ext.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso2022_kr.py to encodings\iso2022_kr.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_1.py to encodings\iso8859_1.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_10.py to encodings\iso8859_10.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_11.py to encodings\iso8859_11.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_13.py to encodings\iso8859_13.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_14.py to encodings\iso8859_14.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_15.py to encodings\iso8859_15.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_16.py to encodings\iso8859_16.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_2.py to encodings\iso8859_2.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_3.py to encodings\iso8859_3.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_4.py to encodings\iso8859_4.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_5.py to encodings\iso8859_5.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_6.py to encodings\iso8859_6.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_7.py to encodings\iso8859_7.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_8.py to encodings\iso8859_8.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\iso8859_9.py to encodings\iso8859_9.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\johab.py to encodings\johab.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\koi8_r.py to encodings\koi8_r.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\koi8_u.py to encodings\koi8_u.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\latin_1.py to encodings\latin_1.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_arabic.py to encodings\mac_arabic.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_centeuro.py to encodings\mac_centeuro.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_croatian.py to encodings\mac_croatian.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_cyrillic.py to encodings\mac_cyrillic.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_farsi.py to encodings\mac_farsi.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_greek.py to encodings\mac_greek.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_iceland.py to encodings\mac_iceland.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_latin2.py to encodings\mac_latin2.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_roman.py to encodings\mac_roman.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_romanian.py to encodings\mac_romanian.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mac_turkish.py to encodings\mac_turkish.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\mbcs.py to encodings\mbcs.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\palmos.py to encodings\palmos.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\ptcp154.py to encodings\ptcp154.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\punycode.py to encodings\punycode.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\quopri_codec.py to encodings\quopri_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\raw_unicode_escape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\rot_13.py to encodings\rot_13.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\shift_jis.py to encodings\shift_jis.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\shift_jis_2004.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\shift_jisx0213.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\string_escape.py to encodings\string_escape.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\tis_620.py to encodings\tis_620.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\undefined.py to encodings\undefined.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\unicode_escape.py to encodings\unicode_escape.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\unicode_internal.py to encodings\unicode_internal.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_16.py to encodings\utf_16.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_16_be.py to encodings\utf_16_be.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_16_le.py to encodings\utf_16_le.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_32.py to encodings\utf_32.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_32_be.py to encodings\utf_32_be.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_32_le.py to encodings\utf_32_le.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_7.py to encodings\utf_7.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_8.py to encodings\utf_8.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\utf_8_sig.py to encodings\utf_8_sig.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\uu_codec.py to encodings\uu_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\encodings\zlib_codec.py to encodings\zlib_codec.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\fnmatch.py to fnmatch.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ftplib.py to ftplib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\functools.py to functools.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\genericpath.py to genericpath.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\getopt.py to getopt.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\getpass.py to getpass.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\gettext.py to gettext.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\glob.py to glob.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\hashlib.py to hashlib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\heapq.py to heapq.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\hmac.py to hmac.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\httplib.py to httplib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\inspect.py to inspect.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\io.py to io.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\keyword.py to keyword.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\FixTk.py to FixTk.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\Tkconstants.py to Tkconstants.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\Tkinter.py to Tkinter.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\tkCommonDialog.py to tkCommonDialog.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\tkFileDialog.py to tkFileDialog.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\lib-tk\ttk.py to ttk.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\linecache.py to linecache.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\locale.py to locale.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\logging\__init__.py to logging\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\logging\handlers.py to logging\handlers.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\mimetools.py to mimetools.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\mimetypes.py to mimetypes.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\nturl2path.py to nturl2path.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\opcode.py to opcode.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\optparse.py to optparse.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\os.py to os.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\os2emxpath.py to os2emxpath.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\pdb.py to pdb.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\pickle.py to pickle.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\posixpath.py to posixpath.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\pprint.py to pprint.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\quopri.py to quopri.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\random.py to random.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\re.py to re.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\repr.py to repr.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\rfc822.py to rfc822.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\sets.py to sets.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\shlex.py to shlex.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\__init__.py to pyreadline\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\clipboard\__init__.py to pyreadline\clipboard\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\clipboard\ironpython_clipboard.py to pyreadline\clipboard\ironpython_clipboard.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\clipboard\no_clipboard.py to pyreadline\clipboard\no_clipboard.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\clipboard\win32_clipboard.py to pyreadline\clipboard\win32_clipboard.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\console\__init__.py to pyreadline\console\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\console\ansi.py to pyreadline\console\ansi.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\console\event.py to pyreadline\console\event.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\console\ironpython_console.py to pyreadline\console\ironpython_console.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\error.py to pyreadline\error.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\keysyms\__init__.py to pyreadline\keysyms\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\keysyms\common.py to pyreadline\keysyms\common.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\keysyms\ironpython_keysyms.py to pyreadline\keysyms\ironpython_keysyms.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\keysyms\keysyms.py to pyreadline\keysyms\keysyms.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\keysyms\winconstants.py to pyreadline\keysyms\winconstants.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\lineeditor\__init__.py to pyreadline\lineeditor\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\lineeditor\history.py to pyreadline\lineeditor\history.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\lineeditor\lineobj.py to pyreadline\lineeditor\lineobj.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\lineeditor\wordmatcher.py to pyreadline\lineeditor\wordmatcher.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\logger.py to pyreadline\logger.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\modes\__init__.py to pyreadline\modes\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\modes\basemode.py to pyreadline\modes\basemode.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\modes\emacs.py to pyreadline\modes\emacs.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\modes\notemacs.py to pyreadline\modes\notemacs.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\modes\vi.py to pyreadline\modes\vi.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\py3k_compat.py to pyreadline\py3k_compat.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\release.py to pyreadline\release.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\rlmain.py to pyreadline\rlmain.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\pyreadline\unicode_helper.py to pyreadline\unicode_helper.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\readline.py to readline.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\win32\lib\win32con.py to win32con.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\win32\lib\win32evtlogutil.py to win32evtlogutil.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\site-packages\win32\lib\winerror.py to winerror.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\smtplib.py to smtplib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\socket.py to socket.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\sre.py to sre.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\sre_compile.py to sre_compile.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\sre_constants.py to sre_constants.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\sre_parse.py to sre_parse.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\ssl.py to ssl.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\stat.py to stat.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\string.py to string.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\stringprep.py to stringprep.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\struct.py to struct.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\subprocess.py to subprocess.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\tempfile.py to tempfile.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\textwrap.py to textwrap.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\threading.py to threading.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\token.py to token.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\tokenize.py to tokenize.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\traceback.py to traceback.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\types.py to types.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\__init__.py to unittest\__init__.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\case.py to unittest\case.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\loader.py to unittest\loader.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\main.py to unittest\main.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\result.py to unittest\result.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\runner.py to unittest\runner.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\signals.py to unittest\signals.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\suite.py to unittest\suite.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\unittest\util.py to unittest\util.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\urllib.py to urllib.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\urlparse.py to urlparse.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\uu.py to uu.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\warnings.py to warnings.pyc
+skipping byte-compilation of C:\Users\t\Anaconda2\lib\weakref.py to weakref.pyc
+skipping byte-compilation of C:\Users\t\Desktop\SSautotest\ComboBox.py to ComboBox.pyc
+skipping byte-compilation of C:\Users\t\Desktop\SSautotest\FileButton.py to FileButton.pyc
+skipping byte-compilation of C:\Users\t\Desktop\SSautotest\Prompt.py to Prompt.pyc
+skipping byte-compilation of C:\Users\t\Desktop\SSautotest\Typer.py to Typer.pyc
+skipping byte-compilation of C:\Users\t\Desktop\SSautotest\TypingField.py to TypingField.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\_ctypes.py to _ctypes.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\_hashlib.py to _hashlib.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\_socket.py to _socket.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\_ssl.py to _ssl.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\_tkinter.py to _tkinter.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\bz2.py to bz2.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\select.py to select.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\unicodedata.py to unicodedata.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\win32api.py to win32api.pyc
+byte-compiling C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\temp\win32evtlog.py to win32evtlog.pyc
+*** copy extensions ***
+*** copy dlls ***
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\StringIO.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\UserDict.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\__future__.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_abcoll.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_strptime.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_threading_local.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_weakrefset.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\abc.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\atexit.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\base64.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\bdb.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\calendar.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\cmd.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\codecs.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\collections.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\contextlib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\copy.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\copy_reg.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ctypes\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\ctypes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ctypes\_endian.pyc -> C:\Users\t\Desktop\SSautotest\dist\ctypes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ctypes\wintypes.pyc -> C:\Users\t\Desktop\SSautotest\dist\ctypes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\difflib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\dis.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\doctest.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\dummy_thread.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\_parseaddr.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\base64mime.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\charset.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\encoders.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\errors.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\feedparser.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\generator.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\header.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\iterators.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\message.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\mime\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\email\mime
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\parser.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\quoprimime.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\email\utils.pyc -> C:\Users\t\Desktop\SSautotest\dist\email
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\aliases.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\ascii.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\base64_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\big5.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\big5hkscs.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\bz2_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\charmap.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp037.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1006.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1026.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1140.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1250.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1251.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1252.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1253.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1254.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1255.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1256.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1257.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp1258.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp424.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp437.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp500.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp720.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp737.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp775.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp850.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp852.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp855.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp856.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp857.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp858.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp860.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp861.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp862.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp863.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp864.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp865.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp866.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp869.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp874.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp875.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp932.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp949.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\cp950.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\euc_jis_2004.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\euc_jisx0213.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\euc_jp.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\euc_kr.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\gb18030.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\gb2312.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\gbk.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\hex_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\hp_roman8.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\hz.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\idna.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp_1.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp_2.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp_2004.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp_3.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_jp_ext.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso2022_kr.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_1.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_10.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_11.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_13.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_14.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_15.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_16.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_2.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_3.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_4.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_5.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_6.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_7.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_8.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\iso8859_9.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\johab.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\koi8_r.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\koi8_u.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\latin_1.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_arabic.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_centeuro.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_croatian.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_cyrillic.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_farsi.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_greek.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_iceland.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_latin2.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_roman.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_romanian.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mac_turkish.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\mbcs.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\palmos.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\ptcp154.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\punycode.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\quopri_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\raw_unicode_escape.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\rot_13.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\shift_jis.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\shift_jis_2004.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\shift_jisx0213.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\string_escape.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\tis_620.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\undefined.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\unicode_escape.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\unicode_internal.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_16.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_16_be.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_16_le.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_32.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_32_be.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_32_le.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_7.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_8.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\utf_8_sig.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\uu_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\encodings\zlib_codec.pyc -> C:\Users\t\Desktop\SSautotest\dist\encodings
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\fnmatch.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ftplib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\functools.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\genericpath.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\getopt.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\getpass.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\gettext.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\glob.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\hashlib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\heapq.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\hmac.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\httplib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\inspect.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\io.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\keyword.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\FixTk.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\Tkconstants.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\Tkinter.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\tkCommonDialog.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\tkFileDialog.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ttk.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\linecache.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\locale.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\logging\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\logging
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\logging\handlers.pyc -> C:\Users\t\Desktop\SSautotest\dist\logging
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\mimetools.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\mimetypes.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ntpath.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\nturl2path.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\opcode.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\optparse.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\os.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\os2emxpath.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pdb.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pickle.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\posixpath.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pprint.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\quopri.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\random.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\re.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\repr.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\rfc822.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\sets.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\shlex.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\clipboard\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\clipboard
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\clipboard\ironpython_clipboard.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\clipboard
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\clipboard\no_clipboard.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\clipboard
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\clipboard\win32_clipboard.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\clipboard
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\console\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\console
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\console\ansi.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\console
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\console\event.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\console
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\console\ironpython_console.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\console
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\error.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\keysyms\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\keysyms
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\keysyms\common.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\keysyms
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\keysyms\ironpython_keysyms.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\keysyms
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\keysyms\keysyms.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\keysyms
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\keysyms\winconstants.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\keysyms
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\lineeditor\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\lineeditor
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\lineeditor\history.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\lineeditor
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\lineeditor\lineobj.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\lineeditor
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\lineeditor\wordmatcher.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\lineeditor
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\logger.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\modes\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\modes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\modes\basemode.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\modes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\modes\emacs.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\modes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\modes\notemacs.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\modes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\modes\vi.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline\modes
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\py3k_compat.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\release.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\rlmain.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\pyreadline\unicode_helper.pyc -> C:\Users\t\Desktop\SSautotest\dist\pyreadline
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\readline.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\win32con.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\win32evtlogutil.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\winerror.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\smtplib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\socket.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\sre.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\sre_compile.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\sre_constants.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\sre_parse.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ssl.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\stat.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\string.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\stringprep.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\struct.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\subprocess.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\tempfile.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\textwrap.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\threading.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\token.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\tokenize.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\traceback.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\types.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\__init__.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\case.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\loader.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\main.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\result.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\runner.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\signals.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\suite.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unittest\util.pyc -> C:\Users\t\Desktop\SSautotest\dist\unittest
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\urllib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\urlparse.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\uu.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\warnings.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\weakref.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\ComboBox.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\FileButton.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\Prompt.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\Typer.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\TypingField.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_ctypes.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_hashlib.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_socket.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_ssl.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\_tkinter.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\bz2.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\select.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\unicodedata.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\win32api.pyc -> C:\Users\t\Desktop\SSautotest\dist
+copying C:\Users\t\Desktop\SSautotest\build\bdist.win-amd64\winexe\collect-2.7\win32evtlog.pyc -> C:\Users\t\Desktop\SSautotest\dist
+*** copy data files ***
+copying C:\Users\t\Anaconda2\lib\site-packages\py2exe\run_w.exe -> C:\Users\t\Desktop\SSautotest\dist\Autotest.exe
+The following modules appear to be missing
+['IronPythonConsole', 'System', 'System.Windows.Forms.Clipboard', '_scproxy', 'clr', 'console', 'modes.editingmodes', 'pyreadline.keysyms.make_KeyPress', 'pyreadline.keysyms.make_KeyPress_from_keydescr', 'pyreadline.keysyms.make_keyinfo', 'pyreadline.keysyms.make_keysym', 'startup']
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   OLEAUT32.dll - C:\Windows\system32\OLEAUT32.dll
+   USER32.dll - C:\Windows\system32\USER32.dll
+   IMM32.dll - C:\Windows\system32\IMM32.dll
+   SHELL32.dll - C:\Windows\system32\SHELL32.dll
+   ole32.dll - C:\Windows\system32\ole32.dll
+   COMDLG32.dll - C:\Windows\system32\COMDLG32.dll
+   COMCTL32.dll - C:\Windows\system32\COMCTL32.dll
+   ADVAPI32.dll - C:\Windows\system32\ADVAPI32.dll
+   msvcrt.dll - C:\Windows\system32\msvcrt.dll
+   WS2_32.dll - C:\Windows\system32\WS2_32.dll
+   GDI32.dll - C:\Windows\system32\GDI32.dll
+   VERSION.dll - C:\Windows\system32\VERSION.dll
+   KERNEL32.dll - C:\Windows\system32\KERNEL32.dll
+   ntdll.dll - C:\Windows\system32\ntdll.dll

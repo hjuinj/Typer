@@ -1,70 +1,52 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-"""
-ZetCode Tkinter tutorial
-
-In this script, we use the pack manager
-to create a more complex layout.
-
-Author: Jan Bodnar
-Last modified: December 2015
-Website: www.zetcode.com
-"""
-
-from Tkinter import Tk, Text, TOP, BOTH, X, N, LEFT
-from ttk import Frame, Label, Entry
+# -*- coding: utf-8 -*- 
+from Tkinter import *
+# from ttk import Frame, Button, Style, Scrollbar 
+from ttk import Frame, Label, Entry, Scrollbar
 
 
-class Example(Frame):
-  
+class TypingField(Frame):
     def __init__(self, parent):
-        Frame.__init__(self, parent)   
-         
+        Frame.__init__(self, parent)
         self.parent = parent
+        
+        self.submit_tog = True
         self.initUI()
-
+        self.text.bind_class("Text","<Control-a>", self.selectall)
         
     def initUI(self):
-      
-        self.parent.title("Review")
-        self.pack(fill=BOTH, expand=True)
+        self.parent.title("Text Field")
+        self.pack(fill = BOTH, expand=True)
         
-        frame1 = Frame(self)
-        frame1.pack(fill=X)
+        frame1 = Frame(self, width = 50, height =25)
+        frame1.pack(fill = X, expand=True)
+        self.scroll = Scrollbar(frame1)
+        self.scroll.pack(side = "right", fill = Y)
+        self.text = Text(frame1)
+        self.text.pack(fill=Y)
+        self.scroll.config(command=self.text.yview)
+        self.text.config(yscrollcommand=self.scroll.set)
         
-        lbl1 = Label(frame1, text="Title", width=6)
-        lbl1.pack(side=LEFT, padx=5, pady=5)           
-       
-        entry1 = Entry(frame1)
-        entry1.pack(fill=X, padx=5, expand=True)
         
         frame2 = Frame(self)
-        frame2.pack(fill=X)
+        frame2.pack(fill=X, expand=True)
+        self.submit = Button(frame2,text="Start Test")
+        self.submit.bind("<Button-1>", self.startPause)
+        self.submit.pack(fill=X)
         
-        lbl2 = Label(frame2, text="Author", width=6)
-        lbl2.pack(side=LEFT, padx=5, pady=5)        
-
-        entry2 = Entry(frame2)
-        entry2.pack(fill=X, padx=5, expand=True)
+    def startPause(self, event):
+        self.text.focus_set()
+        if self.submit_tog:
+            self.submit.configure(text = "Pause")
+        else:
+            self.submit.configure(text = "Start Test")
+        self.submit_tog = not self.submit_tog
         
-        frame3 = Frame(self)
-        frame3.pack(fill=BOTH, expand=True)
+    def selectall(self, event):
+        event.widget.tag_add("sel","1.0","end")
+    
         
-        lbl3 = Label(frame3, text="Review", width=6)
-        lbl3.pack(side=LEFT, anchor=N, padx=5, pady=5)        
-
-        txt = Text(frame3)
-        txt.pack(fill=BOTH, pady=5, padx=5, expand=True)           
-              
-
-def main():
-  
-    root = Tk()
-    root.geometry("300x300+300+300")
-    app = Example(root)
-    root.mainloop()  
-
 
 if __name__ == '__main__':
-    main()  
+    root = Tk()
+    app = TypingField(root)
+    root.mainloop()

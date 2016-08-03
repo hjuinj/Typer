@@ -18,7 +18,7 @@ class TextCanvas(tk.Frame):
         self.setUI() 
         
         self.loadFile()
-        self.sleepTime = 0.01
+        self.sleepTime = 0.001
         
         if self.dialog.var.get() == 0:
             self.tw = TypeWriter()

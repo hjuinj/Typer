@@ -3,6 +3,7 @@ from Tkinter import *
 class Prompt:
     def __init__(self, parent):
 
+        self.parent = parent
         self.var = IntVar()
         top = self.top = Toplevel(parent)
         self.top.attributes("-toolwindow",1)
@@ -16,6 +17,7 @@ class Prompt:
         
         self.label = Label(top).pack()
         self.button = Button(top, text = "OK", command=self.submit).pack()
+        self.top.title("Keyboards")
         
     def submit(self):
         self.top.destroy()

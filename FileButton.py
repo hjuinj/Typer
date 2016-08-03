@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*- 
 import os
 from Tkinter import *
-from ttk import Frame, Label, Button
 from tkFileDialog import askopenfilename
 
 class FileButton(Frame):
